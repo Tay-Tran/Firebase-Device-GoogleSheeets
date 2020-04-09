@@ -56,7 +56,7 @@ function wait(ms) {
         service: 'gmail',
         auth: {
             user: 'internet.of.things.server@gmail.com', // email hoặc username
-            pass: 'tay************@' // password
+            pass: 'tay***********@' // password
         },
         tls: {
             rejectUnauthorized: false
