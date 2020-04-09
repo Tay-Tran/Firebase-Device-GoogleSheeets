@@ -1,2 +1,2 @@
 # Firebase-Device-GoogleSheeets
-kết giữa Firebase-Device-GoogleSheeets
+kết nối giữa Firebase-Device-GoogleSheeets
